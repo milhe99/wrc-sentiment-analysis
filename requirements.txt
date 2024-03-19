@@ -1,0 +1,9 @@
+tweepy
+pandas
+numpy
+nltk
+TextBlob
+matplotlib
+seaborn
+jupyter
+spacy
